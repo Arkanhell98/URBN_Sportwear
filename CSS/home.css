@@ -12,9 +12,8 @@
 }
 /* Hero */
 .hero {
-  background: url("/imagenes/imagen_principal.png") no-repeat center
-    center/cover;
-  color: white;
+  background: #afcee2;
+  color: #1b2831;
   padding: 100px 20px;
   text-align: center;
   font-family: 'lexend';
