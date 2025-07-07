@@ -12,7 +12,7 @@
 }
 /* Hero */
 .hero {
-  background: url("/imagenes/imagen_principal.png") no-repeat center
+  background-image: url("/imagenes/imagen_principal.png") no-repeat center
     center/cover;
   color: white;
   padding: 100px 20px;
